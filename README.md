@@ -11,11 +11,11 @@ A dongle for my [split ergonomic keyboard](https://github.com/skifli/splad).
 
 ## Schematic
 
-![alt text](schematic.png)
+![alt text](assets/schematic.png)
 
 ## PCB
 
-![alt text](pcb.png)
+![alt text](assets/pcb.png)
 
 ## BOM
 
