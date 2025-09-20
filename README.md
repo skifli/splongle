@@ -7,7 +7,7 @@
 
 ![alt text](assets/image.png)
 
-A dongle for my [split ergonomic keyboard](https://github.com/skifli/splad).
+A dongle for my [split ergonomic keyboard](https://github.com/skifli/splad). It connects to the device via a USB C port at the top of the case, and there is also a reset button on the left. It will show stats like typing speed, etc, for my keyboard, while also connecting my two keyboard halves together and then to the computer via the aforementioned USB-C.
 
 ## Schematic
 
